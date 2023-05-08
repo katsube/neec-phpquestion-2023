@@ -10,7 +10,7 @@ $monster = [
 
 // $monsterの中身を表示する
 echo $monster[0]."\n";  // スライム
-echo $monster[1]."\n";  // スライムつむり
+echo $monster[1]."\n";  // スライムベス
 echo $monster[2]."\n";  // キングスライム
 echo $monster[3]."\n";  // ホイミスライム
 echo $monster[4]."\n";  // スライムタワー
